@@ -48,14 +48,15 @@
 
 ### 📌 Proyek Unggulan
 
-| Proyek | Deskripsi | Tech Stack |
-|---|---|---|
-| [**SD Rimba Putra**](https://github.com/GeraldDwight/SD-Rimba-Putra) | Sistem informasi sekolah terpusat berbasis web (proyek skripsi), dibangun dengan metodologi Waterfall | Laravel, PHP, MySQL |
-| [**Portofolio**](https://github.com/GeraldDwight/Portofolio) | Website portofolio pribadi | HTML, CSS, JavaScript |
-| [**Study Case GREATIX**](https://github.com/GeraldDwight/Study-Case-GREATIX) | Studi kasus pengembangan sistem berbasis web | PHP |
-| [**Project Web Snowy**](https://github.com/snowydestudio/project-web-snowy) | Kolaborasi tim pengembangan web | Blade |
+| Proyek | Deskripsi | Tech Stack | Demo |
+|---|---|---|---|
+| [**SD Rimba Putra**](https://github.com/GeraldDwight/SD-Rimba-Putra) | Sistem informasi sekolah terpusat berbasis web (proyek skripsi), dibangun dengan metodologi Waterfall | Laravel, PHP, MySQL | [🔗 Live Demo](https://sdrimbaputra.page.gd/?i=1) |
+| [**Optik Dwi Tunggal**](https://github.com/snowyteam07/project1-web-dwitunggal) | Landing page responsif untuk bisnis optik guna meningkatkan kehadiran digital | PHP | [🔗 Live Demo](https://optikdwitunggal.page.gd/?i=1) |
+| [**Project Web Snowy**](https://github.com/snowydestudio/project-web-snowy) | Kolaborasi tim pengembangan web | Blade | [🔗 Live Demo](https://snowy.site.je/?i=1) |
+| [**Portofolio**](https://github.com/GeraldDwight/Portofolio) | Website portofolio pribadi | HTML, CSS, JavaScript | — |
+| [**Study Case GREATIX**](https://github.com/GeraldDwight/Study-Case-GREATIX) | Studi kasus pengembangan sistem berbasis web | PHP | — |
 
-> 📝 *Ganti tabel di atas sesuai deskripsi asli tiap repo, dan tambahkan link demo/screenshot kalau ada.*
+> 📝 *Cek lagi nama repo di kolom "Proyek" — saya cocokkan berdasarkan nama repo di screenshot profil kamu, tapi tolong pastikan link GitHub-nya benar-benar mengarah ke repo yang sesuai.*
 
 ---
 
