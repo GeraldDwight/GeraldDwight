@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeraldDwight&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=GeraldDwight&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=GeraldDwight&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldDwight&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GeraldDwight&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
