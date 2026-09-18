@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerald Dwight Andigha Cardinsyah</h1>
-<h3 align="center">Fresh Graduate Ilmu Komputer • Full-Stack Developer & System Engineer</h3>
+<h3 align="center">Fresh Graduate Ilmu Komputer • Full-Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(Laravel+%2F+PHP);System+Engineer+%26+Database+Design;QA+%26+Software+Testing;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 - 🎓 Fresh Graduate **S1 Ilmu Komputer**, Universitas Djuanda
 - 💻 Fokus utama: **Full-Stack Web Development** (Laravel/PHP)
-- 🧪 Berpengalaman melakukan **Quality Assurance & Software Testing** secara terstruktur
+- 🧪 Berpengalaman melakukan **Full-Stack Web Development** secara terstruktur
 - 🗂️ Merancang sendiri arsitektur database untuk sebagian besar proyek yang saya kerjakan
 - 🌱 Sedang memperdalam praktik **REST API** dan **Next.js** yang lebih matang
 - 👥 Pernah memimpin organisasi kemahasiswaan (Wakil Ketua DPM Fasilkom, Ketua UKM Voli)
