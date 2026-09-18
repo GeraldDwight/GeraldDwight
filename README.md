@@ -2,7 +2,7 @@
 <h3 align="center">Fresh Graduate Ilmu Komputer • Full-Stack Developer & System Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+;System+Engineer+%26+Database+Design;QA+%26+Software+Testing;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(Laravel+%2F+PHP);System+Engineer+%26+Database+Design;QA+%26+Software+Testing;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ### 🚀 Tentang Saya
 
 - 🎓 Fresh Graduate **S1 Ilmu Komputer**, Universitas Djuanda
-- 💻 Fokus utama: **Full-Stack Web Development** (Laravel/PHP) & **System Engineering** (perancangan database relasional)
+- 💻 Fokus utama: **Full-Stack Web Development** (Laravel/PHP)
 - 🧪 Berpengalaman melakukan **Quality Assurance & Software Testing** secara terstruktur
 - 🗂️ Merancang sendiri arsitektur database untuk sebagian besar proyek yang saya kerjakan
-- 🌱 Sedang memperdalam praktik **REST API** dan **UI/UX** yang lebih matang
+- 🌱 Sedang memperdalam praktik **REST API** dan **Next.js** yang lebih matang
 - 👥 Pernah memimpin organisasi kemahasiswaan (Wakil Ketua DPM Fasilkom, Ketua UKM Voli)
 - 📫 Hubungi saya: **geralddwight2003@gmail.com**
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeraldDwight&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldDwight&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=GeraldDwight&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
