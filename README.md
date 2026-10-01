@@ -2,7 +2,7 @@
 <h3 align="center">Fresh Graduate Ilmu Komputer • Full-Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(Laravel+%2F+PHP);System+Engineer+%26+Database+Design;QA+%26+Software+Testing;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;System+Engineer+%26+Database+Design;QA+%26+Software+Testing;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,22 +53,28 @@
 | [**SD Rimba Putra**](https://github.com/GeraldDwight/SD-Rimba-Putra) | Sistem informasi sekolah terpusat berbasis web (proyek skripsi), dibangun dengan metodologi Waterfall | Laravel, PHP, MySQL | [🔗 Live Demo](https://sdrimbaputra.page.gd/?i=1) |
 | [**Optik Dwi Tunggal**](https://github.com/snowyteam07/project1-web-dwitunggal) | Landing page responsif untuk bisnis optik guna meningkatkan kehadiran digital | PHP | [🔗 Live Demo](https://optikdwitunggal.page.gd/?i=1) |
 | [**Project Web Snowy**](https://github.com/snowydestudio/project-web-snowy) | Kolaborasi tim pengembangan web | Blade | [🔗 Live Demo](https://snowy.site.je/?i=1) |
-| [**Portofolio**](https://github.com/GeraldDwight/Portofolio) | Website portofolio pribadi | HTML, CSS, JavaScript | — [🔗 Live Demo]( https://geralddwight.github.io/Portofolio/) |
-| [**Study Case GREATIX**](https://github.com/GeraldDwight/Study-Case-GREATIX) | Studi kasus pengembangan sistem berbasis web | PHP | — |
-
-> 📝 *Cek lagi nama repo di kolom "Proyek" — saya cocokkan berdasarkan nama repo di screenshot profil kamu, tapi tolong pastikan link GitHub-nya benar-benar mengarah ke repo yang sesuai.*
+| [**Portofolio**](https://github.com/GeraldDwight/Portofolio) | Website portofolio pribadi | HTML, CSS, JavaScript | [🔗 Live Demo](https://geralddwight.github.io/Portofolio/) |
+| [**Study Case GREATIX**](https://github.com/GeraldDwight/Study-Case-GREATIX-) | Studi kasus pengembangan sistem berbasis web | PHP | — |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=GeraldDwight&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=GeraldDwight&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeraldDwight&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=GeraldDwight&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GeraldDwight&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldDwight&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeraldDwight&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldDwight&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6&hide=c,c++,c%23,python,java,shell,batchfile,makefile,dockerfile,go,rust,kotlin,dart,swift,ruby,typescript,scss,vue" alt="Top Languages" />
 </p>
 
 ---
