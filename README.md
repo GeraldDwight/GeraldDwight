@@ -66,14 +66,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldDwight&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeraldDwight&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldDwight&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6&hide=c,c++,c%23,python,java,shell,batchfile,makefile,dockerfile,go,rust,kotlin,dart,swift,ruby,typescript,scss,vue" alt="Top Languages" />
 </p>
 
