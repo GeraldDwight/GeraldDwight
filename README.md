@@ -14,7 +14,7 @@
 - 🧪 Berpengalaman melakukan **Full-Stack Web Development** secara terstruktur
 - 🗂️ Merancang sendiri arsitektur database untuk sebagian besar proyek yang saya kerjakan
 - 🌱 Sedang memperdalam praktik **REST API** dan **Next.js** yang lebih matang
-- 👥 Pernah memimpin organisasi kemahasiswaan (Wakil Ketua DPM Fasilkom, Ketua UKM Voli)
+- 👥 Pernah memimpin organisasi kemahasiswaan (Wakil Ketua DPM Filkom, Ketua UKM Voli)
 - 📫 Hubungi saya: **geralddwight2003@gmail.com**
 
 ---
